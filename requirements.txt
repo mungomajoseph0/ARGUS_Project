@@ -1,0 +1,4 @@
+# ARGUS runs on pure Python - no pip install needed
+# Optional for colors/progress:
+colorama
+tqdm
