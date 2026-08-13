@@ -1,0 +1,27 @@
+ARGUS v5 REPORT - 3716 files scanned
+Large >100MB: 111
+Duplicates: 20
+Secrets: 0
+WhatsApp trash: 0
+
+TOP 20 LARGEST:
+560.0MB - /storage/emulated/0/stoicism/15_Everyday_Phrases_That_Quietly_and_Silently_Destroy_the_Life_You_Want(0).mp4
+550.6MB - /storage/emulated/0/stoicism/How_to_Reclaim_Inner_Peace_and_Completely_Silence_Your_Mind_Before_You_Sleep(0).mp4
+491.7MB - /storage/emulated/0/Daddy's Books/PDF to Word/Teachers guide book three.docx
+491.4MB - /storage/emulated/0/stoicism/20_Harsh_and_Painful_Truths_You_Must_Accept_to_Experience_Real,_Lasting_Freedom(0).mp4
+460.6MB - /storage/emulated/0/Movies/Your.Fault.London.2026.NaijaPrey.com.mkv
+435.2MB - /storage/emulated/0/stoicism/13_Morning_Affirmations_That_Can_Rapidly_Rewire_Your_Mind_for_Strength_and_Clarity(0).mp4
+369.5MB - /storage/emulated/0/Movies/The Prestige (2006) [NaijaPrey.com].mkv
+338.6MB - /storage/emulated/0/DCIM/Camera/20260101_000101.mp4
+328.6MB - /storage/emulated/0/stoicism/100 Dark Psychology Tricks That Feel Illegal To Know.mp4
+316.9MB - /storage/emulated/0/VidMate/download/AFROBEAT_MIXTAPE_2026_🔥_NAIJA_PARTY_MIX___AMAPIANO___BURNA_BOY,_AYRA_STARR,_REMA(360p).mp4
+313.7MB - /storage/emulated/0/Movies/Mythica/Mythica_ The Godslayer (5) [NaijaPrey.com].mp4
+290.5MB - /storage/emulated/0/Movies/Mythica/Mythica_ The Darkspore (2) [NaijaPrey.com].mp4
+287.3MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S03_EP03.mp4
+285.6MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S02_EP01.mp4
+285.6MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S03_EP04.mp4
+278.8MB - /storage/emulated/0/Daddy's Books/Longhorn secondary Biology teacher's guide 3.pdf
+276.8MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S01_EP02.mp4
+273.4MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S03_EP05.mp4
+273.3MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S01_EP06.mp4
+270.7MB - /storage/emulated/0/Movies/squid game/Squid_Game_480P_S02_EP04.mp4
